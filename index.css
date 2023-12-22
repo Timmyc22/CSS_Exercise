@@ -16,8 +16,10 @@ main {
      margin-left: auto;
      margin-right: auto;
 }
+
 section {
     margin: 24px 0;
+    border:3px dotted orange;
     padding-top: 16px;
     padding-top: 16px;
     padding-left: 16px;
